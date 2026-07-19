@@ -2,10 +2,10 @@
   "admob_app_id": "ca-app-pub-6335103216414556~1057481396",
   "is_ads_enabled": true,
   "test_ad_units": {
-    "app_open_ad_id": "ca-app-pub-4754459062262858/2149824643",
-    "interstitial_ad_id": "ca-app-pub-6335103216414556/5626709309",
+    "app_open_ad_id": "ca-app-pub-8530968811450441/8947881297",
+    "interstitial_ad_id": "ca-app-pub-8530968811450441/6513289649",
     "native_ad_id": "ca-app-pub-6335103216414556/6364029726",
     "banner_ad_id": "ca-app-pub-6335103216414556/6939790971",
-    "rewarded_ad_id": "ca-app-pub-4754459062262858/2991334265"
+    "rewarded_ad_id": "ca-app-pub-8530968811450441/5008636289"
   }
 }
